@@ -13,3 +13,6 @@ This is a platform which will serve the purpose alike Pathao & Uber. But my plat
 5-> Payment method by cash or online
 
 6-> Reviewing the driver
+
+
+![Screenshot (55)](https://github.com/pgjoy97/ride-share-app/assets/62511871/2854afa8-b8e9-42b8-a860-0bb49545f5c5)
