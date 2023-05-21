@@ -1,6 +1,6 @@
-<h3>Language used : Laravel</h3>
+<h4 style="color:blue;text-align:center;">Language used : Laravel</h4>
 
-This is a platform which will serve the purpose alike Pathao & Uber.But my platform will enable user to go from one city to another. The mentionable features of it are given below:
+This is a platform which will serve the purpose alike Pathao & Uber. But my platform will enable user to go from one city to another. The mentionable features of it are given below:
 
 1-> Driver and passenger account creation and logging .
 
